@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/alaa-tarek/home/static/css/main.5ea69350.css",
-    "main.js": "/alaa-tarek/home/static/js/main.d0807929.js",
-    "static/media/fa-solid-900.ttf": "/alaa-tarek/home/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
-    "static/media/fa-brands-400.ttf": "/alaa-tarek/home/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
-    "static/media/background.webp": "/alaa-tarek/home/static/media/background.b36622f8996a84379736.webp",
-    "static/media/fa-solid-900.woff2": "/alaa-tarek/home/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
-    "static/media/fa-brands-400.woff2": "/alaa-tarek/home/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
-    "static/media/fa-regular-400.ttf": "/alaa-tarek/home/static/media/fa-regular-400.d87474231f4192884802.ttf",
-    "static/media/fa-regular-400.woff2": "/alaa-tarek/home/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
-    "static/media/fa-v4compatibility.ttf": "/alaa-tarek/home/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
-    "static/media/fa-v4compatibility.woff2": "/alaa-tarek/home/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
-    "static/media/slick.svg": "/alaa-tarek/home/static/media/slick.2630a3e3eab21c607e21.svg",
-    "static/media/slick.eot": "/alaa-tarek/home/static/media/slick.a4e97f5a2a64f0ab1323.eot",
-    "static/media/slick.ttf": "/alaa-tarek/home/static/media/slick.c94f7671dcc99dce43e2.ttf",
-    "static/media/slick.woff": "/alaa-tarek/home/static/media/slick.295183786cd8a1389865.woff",
-    "index.html": "/alaa-tarek/home/index.html",
-    "main.5ea69350.css.map": "/alaa-tarek/home/static/css/main.5ea69350.css.map",
-    "main.d0807929.js.map": "/alaa-tarek/home/static/js/main.d0807929.js.map"
+    "main.css": "/alaa-tarek/static/css/main.b5254d87.css",
+    "main.js": "/alaa-tarek/static/js/main.0de477e5.js",
+    "static/media/fa-solid-900.ttf": "/alaa-tarek/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/fa-brands-400.ttf": "/alaa-tarek/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/background.webp": "/alaa-tarek/static/media/background.b36622f8996a84379736.webp",
+    "static/media/fa-solid-900.woff2": "/alaa-tarek/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/alaa-tarek/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/alaa-tarek/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/fa-regular-400.woff2": "/alaa-tarek/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/fa-v4compatibility.ttf": "/alaa-tarek/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/alaa-tarek/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "static/media/slick.svg": "/alaa-tarek/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/alaa-tarek/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/alaa-tarek/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/alaa-tarek/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/alaa-tarek/index.html",
+    "main.b5254d87.css.map": "/alaa-tarek/static/css/main.b5254d87.css.map",
+    "main.0de477e5.js.map": "/alaa-tarek/static/js/main.0de477e5.js.map"
   },
   "entrypoints": [
-    "static/css/main.5ea69350.css",
-    "static/js/main.d0807929.js"
+    "static/css/main.b5254d87.css",
+    "static/js/main.0de477e5.js"
   ]
 }
